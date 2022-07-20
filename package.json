@@ -1,0 +1,15 @@
+{
+  "name": "serials2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "slideschow.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gsap": "^3.10.4",
+    "swiper": "^8.3.1"
+  }
+}
